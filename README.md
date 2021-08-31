@@ -20,6 +20,7 @@ You can see a example sample from dataset below.
 
 [ 0.  0.  0. 11. 15.  5.  0.  0.]
 
+---
 
 You can see loss graph (1 - accuracy) in below.
 
