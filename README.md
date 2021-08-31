@@ -22,22 +22,27 @@ You can see a example sample from dataset below.
 
 You can see loss graph (1 - accuracy) in below.
 
-<img src="/resources/loss_graph.png?raw=true" style="width: 250px;"/>
+<img src="/resources/loss_graph.png?raw=true"/>
 
 
 You can see execution time graph in below.
 
-<img src="/resources/execution_time_graph.png?raw=true" style="width: 250px;"/>
+<img src="/resources/execution_time_graph.png?raw=true"/>
 
 
 You can see total loss graph in below.
 
-<img src="/resources/total_loss_graph.png?raw=true" style="width: 250px;"/>
+<img src="/resources/total_loss_graph.png?raw=true"/>
 
 
 Random forest parameters and scores are in below.
+
 n_estimators:  9
+
 max_depth:  8
+
 acc:  0.9025069637883009
+
 loss:  0.09749303621169914
+
 execution_time:  0.021958112716674805
