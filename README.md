@@ -3,6 +3,7 @@
 Dataset is digit dataset (Mnist)
 
 You can see a example sample from dataset below.
+
 [ 0.  0.  0.  8. 15. 10.  0.  0.]
 
 [ 0.  0.  8. 13.  6.  1.  0.  0.]
