@@ -14,13 +14,15 @@ You can see a example sample from dataset below.
 
 
 You can see loss graph (1 - accuracy) in below.
-<img src="/resources/loss_graph.png?raw=true" alt="cameraDemo"/>
+<img src="/resources/loss_graph.png?raw=true" style="width: 250px;"/>
+
 
 You can see execution time graph in below.
-<img src="/resources/execution_time_graph.png?raw=true" alt="cameraDemo"/>
+<img src="/resources/execution_time_graph.png?raw=true" style="width: 250px;"/>
+
 
 You can see total loss graph in below.
-<img src="/resources/total_loss_graph.png?raw=true" alt="cameraDemo"/>
+<img src="/resources/total_loss_graph.png?raw=true" style="width: 250px;"/>
 
 
 Random forest parameters and scores are in below.
